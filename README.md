@@ -1,5 +1,5 @@
-# Mi_Primer_Repositorio
-Mi primer repositorio de ejemplo
+# Sobre Mi
+Desarrollador en Python-Django. Con conocimientos en CSS, HTML y JS. Manejo de Bootstrap. BD: SQLite y MySQL. 
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
